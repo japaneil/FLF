@@ -1,4 +1,4 @@
-# ⚡ FLF ML Python ⚡
+# ⚡ Fastest Line Follower (Python Projects) ⚡
 🌍 <b>Repository with [Neil Arora](https://github.com/japaneil) and [Pranav Verma](https://github.com/PranavVerma-droid) for FLF</b> 🌍<br>
 This repository has code that you must ask for permission before using! Please ask us on our email(s): neilarora2008@gmail.com and pranav@verma.net.in<br>
 Contains Code for <b>Python, OpenCV.</b><br><br>
