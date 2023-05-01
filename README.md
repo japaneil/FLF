@@ -1,4 +1,4 @@
-# ⚡ FLF_ML_PyOpenCV ⚡
+# ⚡ FLF_ML_Py ⚡
 🌍 <b>Repo with [@japaneil](https://github.com/japaneil) for Projects</b> 🌍<br>
 This Repo has code that you must ask for permission before using! Please ask us on our email(s): pranav@verma.net.in or neilarora2008@gmail.com<br>
 Contains Code for <b>Python, OpenCV.</b><br><br>
